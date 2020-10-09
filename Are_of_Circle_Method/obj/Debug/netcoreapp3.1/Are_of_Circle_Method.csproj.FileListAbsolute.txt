@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\bin\Debug\netcoreapp3.1\Are_of_Circle_Method.exe
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\bin\Debug\netcoreapp3.1\Are_of_Circle_Method.deps.json
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\bin\Debug\netcoreapp3.1\Are_of_Circle_Method.runtimeconfig.json
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\bin\Debug\netcoreapp3.1\Are_of_Circle_Method.runtimeconfig.dev.json
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\bin\Debug\netcoreapp3.1\Are_of_Circle_Method.dll
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\bin\Debug\netcoreapp3.1\Are_of_Circle_Method.pdb
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\obj\Debug\netcoreapp3.1\Are_of_Circle_Method.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\obj\Debug\netcoreapp3.1\Are_of_Circle_Method.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\obj\Debug\netcoreapp3.1\Are_of_Circle_Method.AssemblyInfo.cs
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\obj\Debug\netcoreapp3.1\Are_of_Circle_Method.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\obj\Debug\netcoreapp3.1\Are_of_Circle_Method.dll
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\obj\Debug\netcoreapp3.1\Are_of_Circle_Method.pdb
+C:\Users\owner\source\repos\Are_of_Circle_Method\Are_of_Circle_Method\obj\Debug\netcoreapp3.1\Are_of_Circle_Method.genruntimeconfig.cache
